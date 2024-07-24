@@ -1,4 +1,4 @@
-name: Build APP
+name: Build Zerotier APP
 
 on:
   push:
